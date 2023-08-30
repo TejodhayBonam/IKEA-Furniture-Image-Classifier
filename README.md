@@ -1,4 +1,4 @@
-# Ikea-WebScraping-Classification
+# IKEA Furniture Image Classifier
 
 A repository to perform data collection of images using web scraping techniques to create a dataset from the IKEA website. The datatset created is then used to build a deep learning model which uses a convolutional neural network based image classifier implemented in keras to classify images into 4 categories - beds, tables, chairs and tableware.
 
